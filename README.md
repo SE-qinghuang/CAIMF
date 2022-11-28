@@ -1,2 +1,2 @@
 # CAIMF
-a framework for hierarchical chain
+A Configurable AI Module Framework.
